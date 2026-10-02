@@ -29,7 +29,7 @@ I'm a Software Developer at **Inside Sistemas**, helping build and evolve enterp
 
 [![Open live project](https://img.shields.io/badge/Live%20Demo-Open%20Studio%20Vanitta-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gestao-studio-front-main.vercel.app)
 
-Web project developed with JavaScript for studio management and digital solutions. It is my main project and represents my focus on creating practical, intuitive web experiences for real business needs.
+Production web platform for studio management and digital solutions, built with **React**, **Node.js**, and **JavaScript**. Currently in active use by a client, it delivers a practical, reliable solution for real business needs.
 
 → **[Explore the live application](https://gestao-studio-front-main.vercel.app)**
 
